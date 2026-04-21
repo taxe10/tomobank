@@ -94,7 +94,7 @@ Data were collected across multiple facilities, including the Advanced Light Sou
 .. |d00109| image:: ../img/sand/thumbnail_20240425_144547_nist-sand-70-200_27keV_z8mm_n2625_01008.png
     :width: 20pt
     :height: 20pt
-.. |d00110| image:: ../img/sand/thumbnail_20240425_153137_nist-sand-100-325_27kev_z8mm_n2625_01008.png
+.. |d00110| image:: ../img/sand/thumbnail_20240425_153137_nist-sand-100-325_27keV_z8mm_n2625_01008.png
     :width: 20pt
     :height: 20pt
 .. |d00111| image:: ../img/sand/thumbnail_20240425_161650_nist-sand-30-200-mix_27keV_z8mm_n2625_01008.png
