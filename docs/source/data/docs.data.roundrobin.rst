@@ -61,7 +61,7 @@ A round-robin dataset using sand samples was collected across multiple facilitie
 
 The samples were based on NIST RM 8010 standard sand (:math:`\mathrm{SiO_2}`), a certified reference material with well-defined particle size distributions spanning sieve ranges from No. 30 to No. 325 (approximately 600 :math:`\mu m` to 45 :math:`\mu m`). Four specimen groups were prepared: coarse (No. 30–100), intermediate (No. 70–200), fine (No. 100–325), and a mixed distribution. All samples were loaded into 1–2 mm diameter Kapton capillary tubes for consistency.
 
-Data were collected across multiple facilities, including the Advanced Light Source (ALS), Advanced Photon Source (APS), National Synchrotron Light Source II (NSLS-II), Diamond Light Source (DIAD beamline), Stanford Synchrotron Radiation Lightsource (SSRL), and a laboratory-based system at the Environmental Molecular Sciences Laboratory (EMSL) at Pacific Northwest National Laboratory (PNNL).
+Data were collected across multiple facilities, including the Advanced Light Source (ALS), Advanced Photon Source (APS), National Synchrotron Light Source II (HEX beamline), Diamond Light Source (DIAD beamline), Stanford Synchrotron Radiation Lightsource (SSRL), and a laboratory-based system at the Environmental Molecular Sciences Laboratory (EMSL) at Pacific Northwest National Laboratory (PNNL).
 
 .. figure:: ../img/tomo_00104_to_00107.png
    :alt: Alternative text for the image
