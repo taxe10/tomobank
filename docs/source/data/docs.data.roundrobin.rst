@@ -535,7 +535,7 @@ round-robin sand dataset effort:
 * Francesco De Carlo <decarlo@anl.gov>
 * Johanna Nelson Weker <jlnelson@slac.stanford.edu>
 
-This work was performed and partially supported by the U.S. Department of Energy (DOE), Office of Science, Office of Basic Energy Sciences, Data, Artificial Intelligence and Machine Learning at DOE Scientific User Facilities program under the MLExchange Project (Award No.~107514).
+This work was performed and partially supported by the U.S. Department of Energy (DOE), Office of Science, Office of Basic Energy Sciences, Data, Artificial Intelligence and Machine Learning at DOE Scientific User Facilities program under the MLExchange Project (Award No. 107514).
 
 This research used resources of the Advanced Light Source, a DOE Office of Science User Facility under contract No. DE-AC02-05CH11231; the National Synchrotron Light Source II, a DOE Office of Science User Facility operated by Brookhaven National Laboratory under Contract No. DE-SC0012704, Advanced Photon Source (APS), a DOE Office of Science User Facility operated by Argonne National Laboratory under Contract No. DE-AC02-06CH11357, and Stanford Synchrotron Radiation Lightsource, a DOE Office of Science User Facility operated by SLAC National Accelerator Laboratory under Contract No. DE-AC02-76SF00515. Pacific Northwest National Laboratory is operated for the U.S. Department of Energy by the Battelle Memorial Institute under Contract No. DE-AC05-76RLO1830.
 
