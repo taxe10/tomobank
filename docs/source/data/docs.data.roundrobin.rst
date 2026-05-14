@@ -321,7 +321,7 @@ Data were collected across multiple facilities, including the Advanced Light Sou
 +----------------------------+-----------------------------------------+---------+
 | Energy                     | Pink beam (low angle), 4 mm Alu filter  |         |
 +----------------------------+-----------------------------------------+---------+
-| Sample to detector distance|                                         |         |
+| Sample to detector distance| 149.996                                 | mm      |
 +----------------------------+-----------------------------------------+---------+
 
 
@@ -342,7 +342,7 @@ Data were collected across multiple facilities, including the Advanced Light Sou
 +----------------------------+-----------------------------------------+---------+
 | Energy                     | Pink beam (low angle), 4 mm Alu filter  |         |
 +----------------------------+-----------------------------------------+---------+
-| Sample to detector distance|                                         |         |
+| Sample to detector distance| 149.996                                 | mm      |
 +----------------------------+-----------------------------------------+---------+
 
 
@@ -363,7 +363,7 @@ Data were collected across multiple facilities, including the Advanced Light Sou
 +----------------------------+-----------------------------------------+---------+
 | Energy                     | Pink beam (low angle), 4 mm Alu filter  |         |
 +----------------------------+-----------------------------------------+---------+
-| Sample to detector distance|                                         |         |
+| Sample to detector distance| 149.996                                 | mm      |
 +----------------------------+-----------------------------------------+---------+
 
 
